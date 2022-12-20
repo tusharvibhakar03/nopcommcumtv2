@@ -1,0 +1,6 @@
+2022-12-20 20:12:189 INFO  HomePage :41 - Clicking on currency dropdown
+2022-12-20 20:12:371 INFO  HomePage :65 - Mouse Hovering to Desktop and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Desktops'
+2022-12-20 20:12:103 INFO  HomePage :65 - Mouse Hovering to Desktop and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Desktops'
+2022-12-20 20:12:699 INFO  HomePage :41 - Clicking on currency dropdown
+2022-12-20 20:12:937 INFO  HomePage :80 - Clicking on my account: Proxy element for: DefaultElementLocator 'By.xpath: /span[text()='My Account']'
+2022-12-20 21:12:15 INFO  HomePage :65 - Mouse Hovering to Desktop and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Desktops'
